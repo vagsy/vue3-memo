@@ -37,3 +37,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### & npm version
+
+```sh
+Now using node v18.19.0 (npm v10.2.3)
+```
